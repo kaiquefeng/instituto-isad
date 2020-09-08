@@ -22,17 +22,17 @@
                     <div class="social-link social-link-2">
                         <ul>
                             <li class="facebook">
-                                <a href="https://www.facebook.com" data-toggle="tooltip" target="_blank" data-placement="left" title="Facebook">
+                                <a href="https://www.facebook.com/pg/institutosaraiandrad" data-toggle="tooltip" target="_blank" data-placement="left" title="Facebook">
                                     Facebook
                                 </a>
                             </li>
-                            <li class="twitter">
-                                <a href="https://twitter.com" data-toggle="tooltip" target="_blank" data-placement="left" title="Twitter">
-                                    Twitter
+                            <li class="whatsapp">
+                                <a href="https://api.whatsapp.com/send?phone=5511950418734&text=&source=&data=&app_absent=" data-toggle="tooltip" target="_blank" data-placement="left" title="whatsApp">
+                                    Whats
                                 </a>
                             </li>
                             <li class="instagram">
-                                <a href="https://www.instagram.com/" data-toggle="tooltip" target="_blank" data-placement="left" title="Instagram">
+                                <a href="https://www.instagram.com/isad__oficial/" data-toggle="tooltip" target="_blank" data-placement="left" title="Instagram">
                                     Instagram
                                 </a>
                             </li>
@@ -58,17 +58,17 @@
                     <div class="social-link social-link-2">
                         <ul>
                             <li class="facebook">
-                                <a href="https://www.facebook.com" data-toggle="tooltip" target="_blank" data-placement="left" title="Facebook">
+                                <a href="https://www.facebook.com/pg/institutosaraiandrad" data-toggle="tooltip" target="_blank" data-placement="left" title="Facebook">
                                     Facebook
                                 </a>
                             </li>
-                            <li class="twitter">
-                                <a href="https://twitter.com" data-toggle="tooltip" target="_blank" data-placement="left" title="Twitter">
-                                    Twitter
+                            <li class="whatsapp">
+                                <a href="https://api.whatsapp.com/send?phone=5511950418734&text=&source=&data=&app_absent=" data-toggle="tooltip" target="_blank" data-placement="left" title="whatsApp">
+                                    Whats
                                 </a>
                             </li>
                             <li class="instagram">
-                                <a href="https://www.instagram.com/" data-toggle="tooltip" target="_blank" data-placement="left" title="Instagram">
+                                <a href="https://www.instagram.com/isad__oficial/" data-toggle="tooltip" target="_blank" data-placement="left" title="Instagram">
                                     Instagram
                                 </a>
                             </li>
