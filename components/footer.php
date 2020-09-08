@@ -9,9 +9,7 @@
                                         <img src="assets/images/footer/1.png" alt="Quicky's Logo">
                                     </a>
                                 </div>
-                                <p class="short-desc">Produce and supply various Handi
-                                    craft items all over the world
-                                    which were very attractive</p>
+                                <p class="short-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid nulla corporis eos voluptatibus.</p>
                                 <div class="social-link">
                                     <ul>
                                         <li class="facebook">
@@ -40,24 +38,22 @@
                         </div>
                         <div class="col-lg-2 col-md-3">
                             <div class="footer-widgets_area">
-                                <h3 class="heading">Quick Link</h3>
+                                <h3 class="heading">Links</h3>
                                 <div class="footer-widgets">
                                     <ul>
-                                        <li><a href="">About us</a></li>
-                                        <li><a href="">Our Service</a></li>
-                                        <li><a href="">Pages</a></li>
-                                        <li><a href="">Contact</a></li>
+                                        <li><a href=""></a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-3">
                             <div class="footer-widgets_area">
-                                <h3 class="heading">Information</h3>
+                                <h3 class="heading">Informações</h3>
                                 <div class="footer-widgets">
                                     <ul>
-                                        <li><a href="">Payment System</a></li>
-                                        <li><a href="">Return Policy</a></li>
+                                        <li><a href="">Sobre a Dra.</a></li>
+                                        <li><a href="">Contato</a></li>
                                         <li><a href="">Terms & Conditins</a></li>
                                         <li><a href="">Quick Support</a></li>
                                     </ul>
@@ -66,15 +62,13 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="footer-widgets_area">
-                                <h3 class="heading">Get in Touch</h3>
+                                <h3 class="heading">Local</h3>
                                 <div class="footer-widgets">
-                                    <p class="address-info">265, South Block, Holly City
-                                        Main Street, Melbourne, Australia</p>
+                                    <p class="address-info">Rua lorem ipsum</p>
                                     <div class="widgets-mail">
-                                        <a href="mailto://info@example.com">info@example.com</a>
-                                        <a href="https://www.example.com">www.example.com</a>
+                                        <a href="">contato@institutoisad.com.br</a>
                                     </div>
-                                    <a class="widgets-contects" href="tel://+0981 2568 658">+0981 2568 658</a>
+                                    <a class="widgets-contects" href="tel://+5511444555">+55 11 444555</a>
                                 </div>
                             </div>
                         </div>
